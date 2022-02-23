@@ -21,7 +21,7 @@ Primary use:  Start for projects
   color: #09afad;
 }
 .font1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 .bold {
   font-weight: bold;
@@ -634,7 +634,7 @@ textarea.textarea2 {
 .navbar li a:hover,
 .navbar li a:focus {
   color: #ffffff;
-  background: #000000;
+  background: #09afad;
 }
 .navbar li > ul {
   list-style: none;
@@ -690,6 +690,7 @@ textarea.textarea2 {
 }
 .navbar-brand {
   max-width: 150px;
+  color:  #ffffff;
 }
 .navbar-brand img {
   width: 100%;
