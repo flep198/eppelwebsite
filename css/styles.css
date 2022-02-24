@@ -1314,9 +1314,10 @@ p {
 ! Section: Resume
 ========================================================== */
 .resume-box {
+  color: #ffffff;
   margin-bottom: 15px;
   padding: 20px;
-  border: 1px solid #031634;
+  border: 1px solid #ffffff;
   border-radius: 6px;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
@@ -1328,13 +1329,13 @@ p {
   transition: all 0.3s ease-in-out;
 }
 .resume-box:hover {
-  background: #09afad;
+  background: #ffffff;
   border: 1px solid transparent;
-  color: #ffffff;
+  color: #000000;
 }
 .resume-box:hover .resume-item-title1,
 .resume-box:hover .resume-item-title2 {
-  color: #ffffff;
+  color: #000000;
 }
 .resume-item-ico {
   text-align: center;
@@ -1355,6 +1356,7 @@ p {
   transition: all 0.3s ease-in-out;
 }
 .resume-item-title1 {
+  color: #ffffff;
   font-weight: bold;
   font-size: 24px;
   margin-top: 0;
@@ -1364,6 +1366,7 @@ p {
   transition: all 0.3s ease-in-out;
 }
 .resume-item-title2 {
+  color: #ffffff;
   font-size: 15px;
   font-weight: normal;
   font-style: italic;
